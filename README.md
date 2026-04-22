@@ -445,4 +445,4 @@ Este projeto é distribuído sob a licença **MIT**. Sinta-se livre para estudar
 
 ---
 
-> Desenvolvido por **Danilo Guirra** ([@devguirra](https://github.com/devguirra)) com fins didáticos e de portfólio.
+> Desenvolvido por **Danilo Guirra** ([@daniloguirra](https://github.com/daniloguirra)) com fins didáticos e de portfólio.
